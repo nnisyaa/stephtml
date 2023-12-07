@@ -1,0 +1,58 @@
+div p{
+
+}
+
+div h2{
+
+}
+
+#block h2{
+    color: green;
+}
+
+#block h2{
+    color: red;
+}
+
+.bbb{}
+
+
+#block .bbb{
+
+}
+
+p.bbb{
+
+}
+
+
+h2.bbb{
+
+}
+
+
+#block p.bbb{
+
+}
+
+
+.bbb,.xxx{
+    color: blue;
+}
+
+
+p.bbb,h2.xxx{
+    color: yellow;
+}
+
+#block p.bbb,#block p.xxx{
+    color: pink;
+}
+.fff{
+
+}
+
+p.fff{
+
+}
+
